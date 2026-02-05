@@ -1,0 +1,34 @@
+{
+  "id": "025-veapon-store-free",
+  "title": "025 Veapon store Free",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "d20_dragon",
+      "url": "https://www.patreon.com/cw/d20_dragon",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/cw/d20_dragon",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Veapon-store-Free",
+      "label": "Veapon store Free",
+      "path": "packs/Veapon-store-Free",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
